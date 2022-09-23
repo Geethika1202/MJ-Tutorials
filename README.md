@@ -1,9 +1,10 @@
 # MJ-Tutorials
+Website Link : https://geethika1202.github.io/MJ-Tutorials/
 
-MJ Tutorials
-Credits:
-Jquery
-Bootstrap
-Font-awesome
-Images : Pexels.
-Goolgle fonts : Lato & Montserrat
+<br>
+####Credits:
+- Jquery
+- Bootstrap
+- Font-awesome
+- Images : Pexels.
+- Goolgle fonts : Lato & Montserrat
